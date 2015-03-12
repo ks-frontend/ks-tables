@@ -10,3 +10,6 @@ This library handles a couple of different types of tables style whether with ic
 ```console
 $ bower install ks-tables
 ```
+[![Bower version](https://badge.fury.io/bo/ks-tables.svg)](http://badge.fury.io/bo/ks-tables)
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)

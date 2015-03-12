@@ -1,18 +1,18 @@
 {
-  "name": "ks-components",
-  "version": "0.0.1",
+  "name": "ks-tables",
+  "version": "0.0.2",
   "description": "Default file structure for iknsa-frontend-framework libs",
-  "main": "templates/components.html",
+  "main": "templates/tables.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ks-frontend/ks-components.git"
+    "url": "https://github.com/ks-frontend/ks-tables.git"
   },
   "keywords": [
     "iknsa-frontend-framework",
-    "components",
+    "tables",
     "css",
     "variables",
     "mixins",
@@ -22,9 +22,9 @@
   "author": "Khalid Sookia <khalidsookia@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ks-frontend/ks-components/issues"
+    "url": "https://github.com/ks-frontend/ks-tables/issues"
   },
-  "homepage": "https://github.com/ks-frontend/ks-components",
+  "homepage": "https://github.com/ks-frontend/ks-tables",
   "devDependencies": {
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-compass": "^1.0.1",
